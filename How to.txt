@@ -1,0 +1,21 @@
+admin@gmail.com
+pass@admin
+
+
+user@gmail.com
+pass@user
+
+
+manager@gmail.com
+pass@manager
+
+
+login using this credition 
+
+if login Admin you can creact and view and delelet user
+Also have paging when adding more user
+
+if log in user you can only see user pager nothing more
+
+if login Manager which i just created you will see manager screan
+
